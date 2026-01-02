@@ -7,6 +7,8 @@ The dashboard is designed to help users understand how population movements rela
 
 This work was developed as part of an applied data visualization project and combines statistical analysis, interactive visual design, and storytelling principles to make complex economic relationships accessible to a broad audience.
 
+Live dashboard: https://oliverwu1024.shinyapps.io/che-yu_wu_31977251_code/
+
 ---
 
 ## Key Research Questions
