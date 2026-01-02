@@ -1,0 +1,122 @@
+[
+  {
+    "variable": "ASX\nYearly\nReturn %",
+    "r_squared": 1.6242,
+    "correlation": -0.1274,
+    "angle": 0,
+    "explanatory_power": "Weak",
+    "correlation_strength": "Weak",
+    "correlation_type": "Negative",
+    "abs_correlation": 0.1274
+  },
+  {
+    "variable": "AUS\nExport\nto\nUSA",
+    "r_squared": 79.4122,
+    "correlation": 0.8911,
+    "angle": 0.5236,
+    "explanatory_power": "Strong",
+    "correlation_strength": "Very Strong",
+    "correlation_type": "Positive",
+    "abs_correlation": 0.8911
+  },
+  {
+    "variable": "AUS\nImport\nfrom\nUSA",
+    "r_squared": 76.6288,
+    "correlation": 0.8754,
+    "angle": 1.0472,
+    "explanatory_power": "Strong",
+    "correlation_strength": "Very Strong",
+    "correlation_type": "Positive",
+    "abs_correlation": 0.8754
+  },
+  {
+    "variable": "AUS\nUnemployment\nRate",
+    "r_squared": 44.025,
+    "correlation": -0.6635,
+    "angle": 1.5708,
+    "explanatory_power": "Moderate",
+    "correlation_strength": "Strong",
+    "correlation_type": "Negative",
+    "abs_correlation": 0.6635
+  },
+  {
+    "variable": "AUS\nGDP\nGrowth",
+    "r_squared": 21.1392,
+    "correlation": -0.4598,
+    "angle": 2.0944,
+    "explanatory_power": "Weak",
+    "correlation_strength": "Moderate",
+    "correlation_type": "Negative",
+    "abs_correlation": 0.4598
+  },
+  {
+    "variable": "AUS\nInflation\nRate",
+    "r_squared": 2.4611,
+    "correlation": -0.1569,
+    "angle": 2.618,
+    "explanatory_power": "Weak",
+    "correlation_strength": "Weak",
+    "correlation_type": "Negative",
+    "abs_correlation": 0.1569
+  },
+  {
+    "variable": "USA\nInflation\nRate",
+    "r_squared": 5.6351,
+    "correlation": -0.2374,
+    "angle": 3.1416,
+    "explanatory_power": "Weak",
+    "correlation_strength": "Weak",
+    "correlation_type": "Negative",
+    "abs_correlation": 0.2374
+  },
+  {
+    "variable": "USA\nGDP\nGrowth",
+    "r_squared": 8.5684,
+    "correlation": -0.2927,
+    "angle": 3.6652,
+    "explanatory_power": "Weak",
+    "correlation_strength": "Weak",
+    "correlation_type": "Negative",
+    "abs_correlation": 0.2927
+  },
+  {
+    "variable": "USA\nExport\nto\nAUS",
+    "r_squared": 75.9446,
+    "correlation": 0.8715,
+    "angle": 4.1888,
+    "explanatory_power": "Strong",
+    "correlation_strength": "Very Strong",
+    "correlation_type": "Positive",
+    "abs_correlation": 0.8715
+  },
+  {
+    "variable": "USA\nImport\nfrom\nAUS",
+    "r_squared": 84.2352,
+    "correlation": 0.9178,
+    "angle": 4.7124,
+    "explanatory_power": "Strong",
+    "correlation_strength": "Very Strong",
+    "correlation_type": "Positive",
+    "abs_correlation": 0.9178
+  },
+  {
+    "variable": "USA\nUnemployment\nRate",
+    "r_squared": 0.2466,
+    "correlation": -0.0497,
+    "angle": 5.236,
+    "explanatory_power": "Weak",
+    "correlation_strength": "Weak",
+    "correlation_type": "Negative",
+    "abs_correlation": 0.0497
+  },
+  {
+    "variable": "S&P500\nYearly\nReturn %",
+    "r_squared": 0.385,
+    "correlation": -0.062,
+    "angle": 5.7596,
+    "explanatory_power": "Weak",
+    "correlation_strength": "Weak",
+    "correlation_type": "Negative",
+    "abs_correlation": 0.062
+  }
+]
